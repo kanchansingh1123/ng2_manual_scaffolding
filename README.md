@@ -13,7 +13,7 @@ Steps -
 
 3) execute the following command's -
 
-    `npm install`
+    npm install
      and
-    `npm start`
+    npm start
     
