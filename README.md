@@ -8,5 +8,7 @@ It has created by following the guidelines - https://angular.io/docs/ts/latest/q
 Steps - 
 
 1) Clone the scaffolding.
+
 2) open command prompt.
+
 3) execute command - npm start
