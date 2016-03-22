@@ -11,4 +11,9 @@ Steps -
 
 2) open command prompt.
 
-3) execute command - npm start
+3) execute the following command's -
+
+    `npm install`
+     and
+    `npm start`
+    
